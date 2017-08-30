@@ -1,3 +1,9 @@
+#This script is available from the 
+#Udacity course on git and github
+#It's a useful interactive course
+#Check it out here: 
+#https://www.udacity.com/course/how-to-use-git-and-github--ud775
+
 # Enable tab completion
 source ~/git-completion.bash
 
